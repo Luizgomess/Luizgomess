@@ -1,8 +1,8 @@
 <img align="center" width=100% src="https://github.com/user-attachments/assets/6d2b2223-a5ac-4ae1-aa32-776713aae011"/>
+<p align="center">🟦🟦🟦⬛⬛🟦<br><br>👍 I love programming and my life revolves around it, when I'm not programming I'm fighting jiu jitsu, at the gym or spending time with my friends, family and my cat "tete"</p>
 
-# 🌟 About me
+---
 
-👍
 <br>
 <br>
 
