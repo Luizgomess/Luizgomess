@@ -1,5 +1,5 @@
 <img align="center" width=100% src="https://github.com/user-attachments/assets/6d2b2223-a5ac-4ae1-aa32-776713aae011"/>
-<p align="center">🟦🟦🟦⬛⬛🟦<br><br>👍 I love programming and my life revolves around it, when I'm not programming I'm fighting jiu jitsu, at the gym or spending time with my friends, family and my cat "tete"</p>
+<p align="center">🟦🟦🟦🟦🟦⬛⬛⬛⬛🟦<br><br>👍 I love programming and my life revolves around it, when I'm not programming I'm fighting jiu jitsu, at the gym or spending time with my friends, family and my cat "tete"</p>
 
 ---
 
@@ -72,7 +72,12 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=luizgomess&show_icons=true&theme=dark&hide_progress=true&bg_color=061019,08121C,060A14,060912&title_color=fff&text_color=fff&hide_border=true" />
+<div align="center">
+  <a href="https://github.com/luizgomess">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizgomess&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgomess&theme=dark&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 <br>
 <br>
