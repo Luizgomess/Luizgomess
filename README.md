@@ -22,36 +22,23 @@
 <br/>
   <h3 align="center">About me</h3>            
   <p align="center">                                                                                                                                                
-    ⚡ Experienced fullstack developer obsessed with building things that look and feel exceptional.<br>
-    🚀 I thrive on complex challenges — the harder the problem, the more fun it gets.<br>                                                                           
-    🎨 Life's too short for ugly apps. Pixel-perfect UI and clean architecture are non-negotiable.<br>
-    🌍 Passionate open source contributor — I believe great software should be shared.<br>                                                                          
+⚡ Fullstack developer obsessed with pixel-perfect UI and clean architecture.<br>                                                                                  
+  🚀 The harder the problem, the more fun it gets.<br>  
+  🌍 Open source enthusiast — great software should be shared.<br>                                                                         
   </p>    
 
 
 <br/>
 <br/>
-
-  <h2 align="center">Technologies</h2>        
-                                                                                                                                                                    
-  <p align="center">
-    <img src="https://img.shields.io/badge/TypeScript-9A3412?style=for-the-badge&logo=typescript&logoColor=white" />                                                
-    <img src="https://img.shields.io/badge/JavaScript-A63D14?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Angular-B24716?style=for-the-badge&logo=angular&logoColor=white" />                                                      
-    <img src="https://img.shields.io/badge/React-BE5118?style=for-the-badge&logo=react&logoColor=white" />                                                          
-    <img src="https://img.shields.io/badge/Node.js-C2410C?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/NestJS-D4500E?style=for-the-badge&logo=nestjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Deno-E05C10?style=for-the-badge&logo=deno&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind-EA580C?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-F06812?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-F47316?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redis-F97F24?style=for-the-badge&logo=redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-FB8B34?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-FC9744?style=for-the-badge&logo=amazon-web-services&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vercel-FDA354?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-FDAF64?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-FDBA74?style=for-the-badge&logo=figma&logoColor=white" />
-  </p>
+<br/>
+<br/>
+<h3 align="center">Languages & Tools</h3>                                
+  <div align="center">                    
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,angular,react,nodejs,nestjs,deno,tailwind,sass" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,postgres,mongodb,redis,docker,aws,vercel,firebase" /><br>                                                     
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,vscode,bun,jest,cypress,npm" /><br>
+    <img src="https://skillicons.dev/icons?i=supabase,dynamodb,mysql,sqlite,express,vite,babel,jenkins,linux" /><br>                                                
+  </div>  
 
 <br/>
 <br/>
