@@ -1,16 +1,20 @@
-<img align="center" width="100%" src="https://www.luizgomes.dev/github.png" />
+<a href="https://luizgomes.dev" target="_blank">
+<img align="center" width="100%" src="github.gif" />
+</a>
+<div align="center">
+  <a href="https://github.com/luizgomess" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=luizgomess&label=Profile%20views&color=ff8637&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
 
-<br>
+  <a href="https://github.com/luizgomess?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/luizgomess?style=for-the-badge&label=Stars&color=ff7b18&logo=github" /></a>
 
-<p align="center">
-  👍 I love programming and my life pretty much revolves around it. <br>
-  When I'm not coding, you’ll probably find me training jiu-jitsu, at the gym, <br>
-  or spending time with my friends, family, and my cat <strong>"Tete"</strong>.
-</p>
+  <a href="https://github.com/luizgomess?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/luizgomess?style=for-the-badge&label=Followers&color=ff6900&logo=github" /></a>
+</div>
 
----
 
-<br>
+
+<br/>
 
 ## 🛠️ Skills
 
