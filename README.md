@@ -16,70 +16,45 @@
 
 <br/>
 
-## 🛠️ Skills
 
-### Programming Languages
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 
-### Frameworks & Libraries
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
-[![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![Deno](https://img.shields.io/badge/Deno-000?logo=deno&logoColor=fff)](#)
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#)
-[![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000)](#)
-[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
-[![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)](#)
+<img src="https://github.com/user-attachments/assets/2877e9b9-66e5-4882-ad7d-88e01b2a80aa" width="250" align="right" style="margin-left: 20px;" />
+<br/>
+  <h3 align="center">About me</h3>            
+  <p align="center">                                                                                                                                                
+    ⚡ Experienced fullstack developer obsessed with building things that look and feel exceptional.<br>
+    🚀 I thrive on complex challenges — the harder the problem, the more fun it gets.<br>                                                                           
+    🎨 Life's too short for ugly apps. Pixel-perfect UI and clean architecture are non-negotiable.<br>
+    🌍 Passionate open source contributor — I believe great software should be shared.<br>                                                                          
+  </p>    
 
-### Styling
-[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
-[![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-[![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff)](#)
 
-### Testing
-[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
-[![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=fff)](#)
-[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
+<br/>
+<br/>
 
-### Package Managers
-[![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](#)
-[![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff)](#)
-[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
-[![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)](#)
-[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#)
+  <h2 align="center">Technologies</h2>        
+                                                                                                                                                                    
+  <p align="center">
+    <img src="https://img.shields.io/badge/TypeScript-9A3412?style=for-the-badge&logo=typescript&logoColor=white" />                                                
+    <img src="https://img.shields.io/badge/JavaScript-A63D14?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Angular-B24716?style=for-the-badge&logo=angular&logoColor=white" />                                                      
+    <img src="https://img.shields.io/badge/React-BE5118?style=for-the-badge&logo=react&logoColor=white" />                                                          
+    <img src="https://img.shields.io/badge/Node.js-C2410C?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/NestJS-D4500E?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Deno-E05C10?style=for-the-badge&logo=deno&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind-EA580C?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-F06812?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-F47316?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-F97F24?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-FB8B34?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-FC9744?style=for-the-badge&logo=amazon-web-services&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-FDA354?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-FDAF64?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-FDBA74?style=for-the-badge&logo=figma&logoColor=white" />
+  </p>
 
-### Databases
-[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff)](#)
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
-
-### Tools & Platforms
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
-[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
-[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
-[![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff)](#)
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-
-<br><br>
+<br/>
+<br/>
 
 <div align="center">
   <h3>Get in touch</h3>
